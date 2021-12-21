@@ -1,5 +1,6 @@
 # Sync-by-directory
 The program takes 5 arguments and synchronizes the two directories n number of times.
+
 List of arguments:
 1. Directory-replication.
 2. Source directory.
